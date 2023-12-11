@@ -1,12 +1,9 @@
-# Svelte Template
+# Calculator App
 
-- Install packages
+A web-based calculator application made with svelte
 
-```npm
-npm install
-```
+## Preview
 
-- Run development server
-```npm
-npm run dev 
-```
+![](screenshot.png)
+
+Live [Demo](https://calculator-u.vercel.app/)
